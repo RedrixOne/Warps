@@ -1,0 +1,10 @@
+main: com.redrixone.Warps
+name: Warps
+version: 1.0
+commands:
+  warp:
+    description: Comando per interagire con i warps
+    usage: /<command>
+  setwarp:
+    description: Comando per impostare un warp
+    usage: /<command>
